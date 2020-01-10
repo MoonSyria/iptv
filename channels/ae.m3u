@@ -55,16 +55,16 @@ http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-id="Ajman TV ARB" tvg-name="Ajman TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/l6FT7yx.jpg" group-title="",Ajman TV
 http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
+
 #EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Jcr3plu.jpg" group-title="",Al Arabiya
 http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 #EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Al Arabiya Al Hadath ARB" tvg-name="Al Arabiya Al Hadath ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="",Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Al Arabiya Al Hadath ARB" tvg-name="Al Arabiya Al Hadath ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/A9SIuRz.jpg" group-title="News",Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b1400000.m3u8
-#EXTINF:-1 tvg-id="Al Wousta from Al Dhaid ARB" tvg-name="Al Wousta from Al Dhaid ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FpKvYT1.png" group-title="",Al Wousta TV
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/chunklist_w1270221403_b764000_t64VVE=.m3u8
+http://livecdnh3.tvanywhere.ae/hls/alarabiya/04.m3u8
+
+
 #EXTINF:-1 tvg-id="B4U Aflam ARB" tvg-name="B4U Aflam ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IvIdaGB.png" group-title="",B4U Aflam
 http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
 #EXTINF:-1 tvg-id="B4U Plus ARB" tvg-name="B4U Plus ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KnpCnyh.png" group-title="",B4U Plus
@@ -91,14 +91,7 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="Dubai Racing ARB" tvg-name="Dubai Racing ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 1 ARB" tvg-name="Dubai Sports 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
-#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2
-http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2
-http://dmivll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
-http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/QKXDeMQ.png" group-title="",Dubai TV
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 tvg-id="Etisalat Dubai Zaman TV ARB" tvg-name="Etisalat Dubai Zaman TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="",Dubai Zaman
@@ -115,6 +108,12 @@ http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/2tnZJmq.jpg" group-title="Movies",Imagine Movies
 http://95.170.215.109/hls/Imagine-M-Backup-M.m3u8
+#EXTINF:-1,AR H265 | UAE DUBAI SPORTS 1 HEVC
+http://mytvonline.nl:80/live/TqyXTMVp48/6fr1g1RiFG/27456.m3u8
+#EXTINF:-1,[AR] DUBAI SPORTS 2 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/444.m3u8
+#EXTINF:-1,[AR] DUBAI SPORTS 3 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/442.m3u8
 #EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="",MBC
 http://livecdnh2.tvanywhere.ae/hls/mbc1/02.m3u8
 #EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="",MBC
@@ -250,8 +249,6 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Sharjah Sports HD ARB" tvg-name="Sharjah Sports HD ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sharjah TV ARB" tvg-name="Sharjah TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FAp0RtO.png" group-title="",Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="Sharjah TV ARB" tvg-name="Sharjah TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FAp0RtO.png" group-title="",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sharqiya from Kalba ARB" tvg-name="Sharqiya from Kalba ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="",Sharqiya from Kalba TV
 http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
@@ -281,3 +278,9 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 http://51.158.73.206/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Wanasah ARB" tvg-name="Wanasah ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="",Wanasah
 http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
+
+
+#EXTINF:-1,KSA | Al Arabiya
+http://mytvonline.nl:80/live/TqyXTMVp48/6fr1g1RiFG/43388.m3u8
+#EXTINF:-1,KSA | Al Hadath
+http://mytvonline.nl:80/live/TqyXTMVp48/6fr1g1RiFG/43389.m3u8
