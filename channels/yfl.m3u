@@ -311,10 +311,6 @@ https://belugacdn.shoofmax.com/doctor-amrad-nisa/ep29/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QGMjX4U.jpg" group-title="Doctor Amrad Nisa",Doctor Amrad Nisa ep30
 https://belugacdn.shoofmax.com/doctor-amrad-nisa/ep30/720p/index.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7GLCANQ.jpg" group-title="Haroon Al Rasheed",Haroon Al Rasheed ep05
 https://clvod.itworkscdn.net/rotanavod/smil:itwfcdn/rotanavod/464341-WxS8E5I706OiQ16.smil/index-f2-v1-a1.m3u8
 
@@ -323,4 +319,21 @@ https://clvod.itworkscdn.net/rotanavod/smil:itwfcdn/rotanavod/467629-77i23Q403X1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7GLCANQ.jpg" group-title="Haroon Al Rasheed",Haroon Al Rasheed ep31
 https://clvod.itworkscdn.net/rotanavod/smil:itwfcdn/rotanavod/496486-y3IDtKYI3R17r70.smil/index-f2-v1-a1.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qWcspBM.jpg" group-title="Sabaia 1",Sabaia 1 ep1
+https://clvod.itworkscdn.net/rotanavod/smil:itwfcdn/rotanavod/278724-zN29H5zDe612s17.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qWcspBM.jpg" group-title="Sabaia 1",Sabaia 1 ep2
+https://clvod.itworkscdn.net/rotanavod/smil:itwfcdn/rotanavod/278375-6D3753H8B5o05Xk.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x4PfgUM.jpg" group-title="Aflam",30 يوم في العز
+https://clvod.itworkscdn.net/rotanavod/smil:itwfcdn/rotanavod/803937-5Q2026CGHNi24lQ.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jJaNpeP.jpg" group-title="Aflam", لف و دوران 
+https://clvod.itworkscdn.net/rotanavod/smil:itwfcdn/rotanavod/803964-t6e8by3WYF9F20H.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IjA18Hy.jpg" group-title="Aflam", الجمعة الاخيرة
+https://clvod.itworkscdn.net/rotanavod/smil:itwfcdn/rotanavod/803964-t6e8by3WYF9F20H.smil/playlist.m3u8
 
