@@ -63,7 +63,7 @@ https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Al Fath TV"  group-title="General",Al Fath TV
 https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Al Hadath"  group-title="General",Al Hadath
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/471tn98.png" tvg-name="Al Hadath"  group-title="General",Al Hadath
 https://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Al Hayat"  group-title="General",Al Hayat
@@ -372,25 +372,25 @@ https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720p/chunks.m3u8?
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lana plus"  group-title="General",Lana plus
 https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lana plus"  group-title="General",Lana plus
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/tRJSJeb.jpg" tvg-name="Lana plus"  group-title="General",Lana plus
 http://46.101.104.80:9000/live/whnzvNjgZy/8oDmiTI4Ic/12.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lana TV HD"  group-title="News",Lana TV HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/tRJSJeb.jpg" tvg-name="Lana TV HD"  group-title="News",Lana TV HD
 https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8?DVR&v
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lana TV HD"  group-title="News",Lana TV HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/tRJSJeb.jpg" tvg-name="Lana TV HD"  group-title="News",Lana TV HD
 https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Libya Al Hadath"  group-title="News",Libya Al Hadath
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/471tn98.png" tvg-name="Libya Al Hadath"  group-title="News",Libya Al Hadath
 https://stream.218tv.net/libya218news/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Libya 218"  group-title="News",Libya 218
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/0Gq7R07.png" tvg-name="Libya 218"  group-title="News",Libya 218
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Libya 218 News"  group-title="General",Libya 218 News
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/0Gq7R07.png" tvg-name="Libya 218 News"  group-title="General",Libya 218 News
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Libya Al Aaan"  group-title="News",Libya Al Aaan
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Tknf7Ft.jpg" tvg-name="Libya Al Aaan"  group-title="News",Libya Al Aaan
 http://82.212.74.5:8000/live/hls/7727.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Libya Satellite Channel"  group-title="News",Libya Satellite Channel
