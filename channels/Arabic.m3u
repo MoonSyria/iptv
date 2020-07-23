@@ -363,6 +363,12 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KTV Kids"  group-title="General",KTV Kids
 https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
 
+#EXTINF:-1, tvg-id="Rotana Kids ARB" tvg-logo="https://i.imgur.com/kUheW7p.jpg" tvg-name="KTV Kids"  group-title="General",Rotana Kids
+https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_360p/chunks.m3u8?
+
+#EXTINF:-1, tvg-id="Rotana Kids ARB" tvg-logo="https://i.imgur.com/kUheW7p.jpg" tvg-name="KTV Kids HD"  group-title="General",Rotana Kids HD
+https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720p/chunks.m3u8?
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lana plus"  group-title="General",Lana plus
 https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
 
