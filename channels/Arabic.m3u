@@ -372,22 +372,31 @@ https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720p/chunks.m3u8?
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lana plus"  group-title="General",Lana plus
 https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lana TV HD"  group-title="General",Lana TV HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lana plus"  group-title="General",Lana plus
+http://46.101.104.80:9000/live/whnzvNjgZy/8oDmiTI4Ic/12.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lana TV HD"  group-title="News",Lana TV HD
 https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8?DVR&v
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Libya 218"  group-title="General",Libya 218
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lana TV HD"  group-title="News",Lana TV HD
+https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Libya Al Hadath"  group-title="News",Libya Al Hadath
+https://stream.218tv.net/libya218news/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Libya 218"  group-title="News",Libya 218
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Libya 218 News"  group-title="General",Libya 218 News
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Libya Al Aaan"  group-title="General",Libya Al Aaan
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Libya Al Aaan"  group-title="News",Libya Al Aaan
 http://82.212.74.5:8000/live/hls/7727.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Libya Satellite Channel"  group-title="General",Libya Satellite Channel
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Libya Satellite Channel"  group-title="News",Libya Satellite Channel
 http://82.212.74.2:8000/live/hls/7321.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Libya's Channel"  group-title="General",Libya's Channel
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Libya's Channel"  group-title="News",Libya's Channel
 https://1599780955@starmena.ercdn.net/libyaschannel/libyaschannel.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="M24 TV"  group-title="General",M24 TV
