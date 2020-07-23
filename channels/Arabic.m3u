@@ -569,6 +569,7 @@ http://82.137.248.16:1935/Ugarit/stream31122019/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Wanasah"  group-title="General",Wanasah
 https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8
 
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Watan"  group-title="General",Watan
 http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
 
@@ -596,19 +597,19 @@ https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rotana Kids"  group-title="Kids",Rotana Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rotana Cinema HD"  group-title="Rotana",Rotana Cinema HD
+#EXTINF:-1, tvg-id="Rotana Cinema ARB" tvg-logo="https://i.imgur.com/MCqdSnk.jpg" tvg-name="Rotana Cinema HD"  group-title="Rotana",Rotana Cinema HD
 https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rotana Classic HD"  group-title="Rotana",Rotana Classic HD
+#EXTINF:-1, tvg-id="Rotana Classic ARB" tvg-logo="https://i.imgur.com/U3PN63R.png" tvg-name="Rotana Classic HD"  group-title="Rotana",Rotana Classic HD
 https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rotana Comedy HD"  group-title="Rotana",Rotana Comedy HD
+#EXTINF:-1, tvg-id="Rotana Comedy ARB" tvg-logo="https://i.imgur.com/vNNoTY9.jpg" tvg-name="Rotana Comedy HD"  group-title="Rotana",Rotana Comedy HD
 https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rotana Drama HD"  group-title="Rotana",Rotana Drama HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cgI2n2z.png" tvg-name="Rotana Drama HD"  group-title="Rotana",Rotana Drama HD
 https://rotana.hibridmedia.com/rotana/drama_dabr/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rotana Khalijia HD"  group-title="Rotana",Rotana Khalijia HD
+#EXTINF:-1, tvg-id="Rotana Khalijiah ARB" tvg-logo="Logo N/A" tvg-name="Rotana Khalijia HD"  group-title="Rotana",Rotana Khalijia HD
 https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
 
 #EXTINF:-1, tvg-id="MBC 1 ARB" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-name="MBC 1"  group-title="MBC",MBC 1
