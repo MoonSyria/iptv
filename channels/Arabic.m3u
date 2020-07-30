@@ -898,3 +898,6 @@ http://51.159.21.231:2052/live/SOURCEARABPRO22/31136@38606/2356.m3u8
 
 #EXTINF:-1, tvg-id="Koky Kids" tvg-logo="https://i.imgur.com/cla9w5J.jpg" tvg-name="Koky Kids"  group-title="Kids",Koky Kids
 http://51.159.21.231:2052/live/SOURCEARABPRO22/31136@38606/2416.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rCmMkfD.png" group-title="Kids",Cartoon Network Arabic
+https://shls-cartoon-net-prod.shahid.net/cartoon-network-prod.m3u8
