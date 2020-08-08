@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="Real Madrid" tvg-logo="="https://i.imgur.com/JSgmNu7.png" group-title="Sport",BeIn Mach
+#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="Real Madrid" tvg-logo="https://i.imgur.com/cqdjHHR.png" group-title="Sport",BeIn Mach
 https://akamai2-me.cdn.booyah.live/hls/113134/20249329.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="Real Madrid" tvg-logo="="https://i.imgur.com/JSgmNu7.png" group-title="Sport",BeIn Mach 2
+#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="Real Madrid" tvg-logo="https://i.imgur.com/cqdjHHR.png" group-title="Sport",BeIn Mach 2
 https://akamai2-me.cdn.booyah.live/hls/113138/20251104.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="Real Madrid" tvg-logo="https://i.imgur.com/JSgmNu7.png" group-title="Sport",Real Madrid TV
 https://steambroadcast.akamaized.net/broadcast/76561199004599321/4427547397787216836/hls_manifest/0/steambroadcast.akamaized.net/master.m3u8?broadcast_origin=repo-02-lhr1.broadcast.steamcontent.com:80
@@ -23,7 +23,7 @@ https://2202.janjua.pw:8088/adfree/bn66666666636/playlist.m3u8?id=96747&wowzases
 https://2208.janjua.pw:8088/adfree/bn66666666636/playlist.m3u8?id=96747&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
 #EXTINF:-1 tvg-id="beIN Sports 7 ARB" tvg-name="beIN Sports 7 ARB" tvg-logo="https://i.imgur.com/7Eht07u.png" group-title="Sport",beIN Sports HD 7
 https://2208.janjua.pw:8088/adfree/bn66666666636/playlist.m3u8?id=96747&wowzasessionid=154286401&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Qd3F58.png" group-title="Sport",Al Kass Five
+#EXTINF:-1 tvg-id="Al Kass five ARB" tvg-logo="https://i.imgur.com/4Qd3F58.png" group-title="Sport",Al Kass Five
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 tvg-id="Al Kass Two ARB" tvg-name="Al Kass Two ARB" tvg-logo="https://i.imgur.com/MwcyNB6.png" group-title="Sport",Al Kass Two
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
