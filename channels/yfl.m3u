@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv2.movizland.com/wp-content/uploads/Al-Nehaya-2020-245x360.png" group-title="Al Nehaya",Al Nehayeh 01
-https://stream46.uqload.com/3rfkwr4gbnw2q4drdjz7d7vsdz535a3f7q6dv6l3iaop4r3sacsiet7rdeba/v.mp4
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zG7opiH.jpg" group-title=" العميل 1001 ,"العميل 1001 ep1
 https://belugacdn.shoofmax.com/alameel-1001/ep1/720p/index.m3u8
@@ -342,3 +339,18 @@ https://belugacdn.shoofmax.com/emarat-yacoubian/variant.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LPKllNS.jpg" group-title="Aflam", إعدام بريء
 https://belugacdn.shoofmax.com/idam-bari/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JfIs40X.jpg" group-title="Aflam", American Confederate
+https://api.govid.co/api/list/mp4/57566542/6c29dc57d28fde18cee1d62e16418989/list.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a1mAyfM.jpg" group-title="Aflam", Greyhound
+https://s50.uppom.live/d/tzr5aqrwbgeyf3tkiioi74yyfpjwuu3r5suvncvbx2f3xhsdlmzdl4k5kqmkvmzl2qeyvfwy/Greyhound.2020.1080p.WEBRip.MyCima.ME.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a1mAyfM.jpg" group-title="Aflam", Greyhound
+https://s34.vidshar.tv/hls/,pdomoatkkcm4f4kmlgnsh7bffh7qeucway6l4id6ckqj5ntyc3iadlmhjmiq,.urlset/master.m3u8?hash=1234
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/q8XNG7g.jpg" group-title="Aflam", The Kitchen
+https://s28.vidshar.tv/hls/,pdomodovkom4f4kmlgjshnbdfgswvsbbx32a6odk6urgm7veyick5f4f33fa,.urlset/master.m3u8?hash=1234
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6RaBHiC.jpg" group-title="Aflam", Class of 83
+https://s33.vidshar.tv/hls/,pdompi2skgm4f4kmlhxchnjbh3hf26eqxqqworijsxzflgqphbgci3zhyx4a,.urlset/master.m3u8?hash=1234
