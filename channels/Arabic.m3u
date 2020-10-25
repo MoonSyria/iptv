@@ -115,12 +115,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_
 https://player-api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Taghier TV HD" tvg-logo="Logo N/A" group-title="General",Al Taghier TV HD
 https://api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Tanasuh TV" tvg-logo="Logo N/A" group-title="General",Al Tanasuh TV
-http://m.live.net.sa:1935/m/tanasuhtv/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Tanasuh TV (LY)" tvg-logo="Logo N/A" group-title="General",Al Tanasuh TV (LY)
-http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Wesal TV" tvg-logo="Logo N/A" group-title="General",Al Wesal TV
-http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Alghad Almushreq" tvg-logo="Logo N/A" group-title="General",Alghad Almushreq
 http://82.212.74.3:8000/live/7512.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Aliman TV" tvg-logo="Logo N/A" group-title="General",Aliman TV
@@ -135,8 +129,6 @@ https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live
 http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Arryadia" tvg-logo="Logo N/A" group-title="General",Arryadia
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="AshurSat" tvg-logo="Logo N/A" group-title="General",AshurSat
-https://5afd52b55ff79.streamlock.net/AshurSat/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Assadissa" tvg-logo="Logo N/A" group-title="General",Assadissa
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Assadissa" tvg-logo="Logo N/A" group-title="General",Assadissa
@@ -301,8 +293,8 @@ https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist
 https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV" tvg-logo="https://i.imgur.com/Cq0IXMb.jpg" group-title="General",OTV
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist_406p.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="OTV" tvg-logo="Logo N/A" group-title="General",OTV
-https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV" tvg-logo="https://i.imgur.com/Cq0IXMb.jpg" group-title="General",OTV
+http://144.76.226.29:8080/live/streeem/streeem/160.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Palestine Mubasher" tvg-logo="Logo N/A" group-title="General",Palestine Mubasher
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Palestine Satellite Channel" tvg-logo="Logo N/A" group-title="General",Palestine Satellite Channel
@@ -454,7 +446,7 @@ http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Spacetoon" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",MBC 3
-https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Rotana Kids" tvg-logo="Logo N/A" group-title="Kids",Rotana Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="Koky Kids" tvg-name="Koky Kids" tvg-logo="https://i.imgur.com/cla9w5J.jpg" group-title="Kids",Koky Kids
@@ -467,20 +459,20 @@ https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
 https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="Rotana Comedy ARB" tvg-name="Rotana Comedy HD" tvg-logo="https://i.imgur.com/vNNoTY9.jpg" group-title="Rotana",Rotana Comedy HD
 https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Rotana Drama HD" tvg-logo="https://i.imgur.com/cgI2n2z.png" group-title="Rotana",Rotana Drama HD
+#EXTINF:-1 tvg-id="Rotana Drama ARB" tvg-name="Rotana Drama HD" tvg-logo="https://i.imgur.com/cgI2n2z.png" group-title="Rotana",Rotana Drama HD
 https://rotana.hibridmedia.com/rotana/drama_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijiah ARB" tvg-name="Rotana Khalijia HD" tvg-logo="https://i.imgur.com/Lo7qARR.jpg" group-title="Rotana",Rotana Khalijia HD
 https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/10805710-7f83-4bea-9825-ab0f47605227:GRQ/master.m3u8
 #EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC 1
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
 #EXTINF:-1 tvg-id="MBC 2 ARB" tvg-name="MBC 2" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC",MBC 2
-https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_3.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="MBC",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="MBC",MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-id="MBC 5 ARB" tvg-name="MBC 5" tvg-logo="https://i.imgur.com/7Yl4ALl.png" group-title="MBC",MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action HD" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="MBC",MBC Action HD
 http://channelsstream.xyz:8080/live/streeem/streeem/8.m3u8
 #EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action HD" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="MBC",MBC Action HD
@@ -488,7 +480,7 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 #EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="MBC",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="MBC",MBC Drama
-https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
 #EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama+" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="MBC",MBC Drama+
 https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="MBC FM" tvg-logo="https://i.imgur.com/WJ0D3SB.jpg" group-title="MBC",MBC FM
@@ -496,7 +488,7 @@ https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="MBC Iraq" tvg-logo="https://i.imgur.com/MReZMbX.jpg" group-title="MBC",MBC Iraq
 https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
 #EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1" tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="MBC",MBC Masr 1
-https://shls-masr-prod.shahid.net/masr-prod.m3u8
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
 #EXTINF:-1 tvg-id="MBC Masr 2 ARB" tvg-name="MBC Masr 2" tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="MBC",MBC Masr 2
 https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max" tvg-logo="https://i.imgur.com/CpBRbwT.png" group-title="MBC",MBC Max
@@ -545,26 +537,22 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 4 ARB" tvg-name="Abu Dhabi Sports 4" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Sports",Abu Dhabi Sports 4
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass Sports 1" tvg-logo="Logo N/A" group-title="Sports",Al Kass Sports 1
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1laoGlw/master.m3u8
+#EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass Sports 1" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sports",Al Kass Sports 1
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vGlwiab/master.m3u8
 #EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass Sports 1" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sports",Al Kass Sports 1
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vGlwi/master570.m3u8
 #EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass Sports 1" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sports",Al Kass Sports 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 tvg-id="Al Kass Two ARB" tvg-name="Al Kass Sports 2" tvg-logo="Logo N/A" group-title="Sports",Al Kass Sports 2
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2baIzzy/master.m3u8
 #EXTINF:-1 tvg-id="Al Kass Two ARB" tvg-name="Al Kass Sports 2" tvg-logo="https://i.imgur.com/zulPFrO.png" group-title="Sports",Al Kass Sports 2
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2sdnhyi/master570.m3u8
-#EXTINF:-1 tvg-id="Al Kass Two ARB" tvg-name="Al Kass Sports 2" tvg-logo="https://i.imgur.com/zulPFrO.png" group-title="Sports",Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2sdnhyia/master.m3u8
 #EXTINF:-1 tvg-id="Al Kass Five ARB" tvg-name="Al Kass Sports 4" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sports",Al Kass Sports 4
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjeApo/master.m3u8
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjin/master.m3u8
 #EXTINF:-1 tvg-id="Al Kass Four ARB" tvg-name="Al Kass Sports 4" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sports",Al Kass Sports 4
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjpoi/master570.m3u8
 #EXTINF:-1 tvg-id="Al Kass Four ARB" tvg-name="Al Kass Sports 4" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sports",Al Kass Sports 4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 tvg-id="Al Kass Five ARB" tvg-name="Al Kass Sports 5" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sports",Al Kass Sports 5
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Zpgdua/master.m3u8
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Ztddua/master.m3u8
 #EXTINF:-1 tvg-id="Al Kass Five ARB" tvg-name="Al Kass Sports 5" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sports",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 tvg-id="Al Kass Five ARB" tvg-name="Al Kass Sports 5" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sports",Al Kass Sports 5
