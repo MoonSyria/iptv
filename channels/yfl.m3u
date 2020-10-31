@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xW5qT1K.jpg" group-title=" رايات الحق","رايات الحق ep0
-https://belugacdn.shoofmax.com/rayat-alhaq/ep0/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xW5qT1K.jpg" group-title=" رايات الحق","رايات الحق ep1
 https://belugacdn.shoofmax.com/rayat-alhaq/ep1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xW5qT1K.jpg" group-title=" رايات الحق","رايات الحق ep2
@@ -62,8 +60,6 @@ https://belugacdn.shoofmax.com/rayat-alhaq/ep29/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xW5qT1K.jpg" group-title=" رايات الحق","رايات الحق ep30
 https://belugacdn.shoofmax.com/rayat-alhaq/ep30/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ybHXKLe.jpg" group-title=" حدث في دمشق","حدث في دمشق ep0
-https://belugacdn.shoofmax.com/ya-mal-alsham/ep0/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybHXKLe.jpg" group-title=" حدث في دمشق","حدث في دمشق ep1
 https://belugacdn.shoofmax.com/ya-mal-alsham/ep1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybHXKLe.jpg" group-title=" حدث في دمشق","حدث في دمشق ep2
@@ -125,8 +121,6 @@ https://belugacdn.shoofmax.com/ya-mal-alsham/ep29/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybHXKLe.jpg" group-title=" حدث في دمشق","حدث في دمشق ep30
 https://belugacdn.shoofmax.com/ya-mal-alsham/ep30/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iVtaigB.jpg" group-title=" كونتاك","كونتاك ep0
-https://belugacdn.shoofmax.com/contac/ep0/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVtaigB.jpg" group-title=" كونتاك","كونتاك ep1
 https://belugacdn.shoofmax.com/contac/ep1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVtaigB.jpg" group-title=" كونتاك","كونتاك ep2
@@ -188,8 +182,6 @@ https://belugacdn.shoofmax.com/contac/ep29/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVtaigB.jpg" group-title=" كونتاك","كونتاك ep30
 https://belugacdn.shoofmax.com/contac/ep30/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CeNqVqr.jpg" group-title=" دقيقة صمت","دقيقة صمت ep0
-https://belugacdn.shoofmax.com/daqeeqat-samt/ep0/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CeNqVqr.jpg" group-title=" دقيقة صمت","دقيقة صمت ep1
 https://belugacdn.shoofmax.com/daqeeqat-samt/ep1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CeNqVqr.jpg" group-title=" دقيقة صمت","دقيقة صمت ep2
@@ -251,8 +243,6 @@ https://belugacdn.shoofmax.com/daqeeqat-samt/ep29/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CeNqVqr.jpg" group-title=" دقيقة صمت","دقيقة صمت ep30
 https://belugacdn.shoofmax.com/daqeeqat-samt/ep30/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rJ68W1x.jpg" group-title="  لدينا اقوال اخرى"," لدينا اقوال اخرى ep0
-https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep0/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ68W1x.jpg" group-title="  لدينا اقوال اخرى"," لدينا اقوال اخرى ep1
 https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ68W1x.jpg" group-title="  لدينا اقوال اخرى"," لدينا اقوال اخرى ep2
