@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Ya Hala Cinma HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Ya Hala Cinma HD
+http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN AL YAHALA ALOULA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN AL YAHALA ALOULA
+http://digitalxpress.gcdn.co/live1/OSNYAHALA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN WWE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN WWE HD
+http://dx3.gcdn.co/OSNWWE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN WWE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN WWE1 HD
+http://dx3.gcdn.co/OSNWWE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN ANIMAL PLANET HD
+http://digitalxpress.gcdn.co/live1/OSNANIMALPLANET/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Cinema" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN ART Cinema
+http://digitalxpress.gcdn.co/live1/osnartcinema/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies FIRST HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Movies FIRST HD
+http://digitalxpress.gcdn.co/live1/osnmoviesfirst/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Movies HD
+http://digitalxpress.gcdn.co/live1/osnmovies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 1 Premiere" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 1 Premiere
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 2 HD
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 3 HD
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 4 Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 4 Family
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Drama" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Drama
+http://digitalxpress.gcdn.co/live1/BeinDramaHD1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Series 1 HD
+http://digitalxpress.gcdn.co/live1/BEINSERIESHD1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Boomerang HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Boomerang HD
+http://digitalxpress.gcdn.co/live1/beinboomeranghd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Cartoon Network HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Cartoon Network HD
+http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="22 TV" tvg-logo="Logo N/A" group-title="General",22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="2M Monde" tvg-logo="Logo N/A" group-title="General",2M Monde
@@ -35,14 +67,12 @@ http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Aqsa Channel" tvg-logo="Logo N/A" group-title="General",Al Aqsa Channel
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Araby" tvg-logo="Logo N/A" group-title="General",Al Araby
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Araby" tvg-logo="https://i.imgur.com/LiJhkXQ.png" group-title="General",Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Fallujah" tvg-logo="Logo N/A" group-title="General",Al Fallujah
 https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Fath TV" tvg-logo="Logo N/A" group-title="General",Al Fath TV
 https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Hadath" tvg-logo="https://i.imgur.com/471tn98.png" group-title="General",Liby Al Hadath
-https://master.starmena-cloud.com/hls/hd.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Hayat" tvg-logo="Logo N/A" group-title="General",Al Hayat
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Hiwar" tvg-logo="Logo N/A" group-title="General",Al Hiwar
@@ -50,9 +80,9 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="AL HOKAIR Group TV" tvg-logo="Logo N/A" group-title="General",AL HOKAIR Group TV
 http://82.212.74.3:8000/live/7513.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Horreya TV" tvg-logo="Logo N/A" group-title="General",Al Horreya TV
-http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Horreya TV" tvg-logo="Logo N/A" group-title="General",Al Horreya TV
 http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Horreya TV" tvg-logo="Logo N/A" group-title="General",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Hurra Iraq" tvg-logo="Logo N/A" group-title="General",Al Hurra Iraq
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Iraqiya Al 3ama" tvg-logo="Logo N/A" group-title="General",Al Iraqiya Al 3ama
@@ -60,7 +90,7 @@ http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Istiqama TV" tvg-logo="Logo N/A" group-title="General",Al Istiqama TV
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 #EXTINF:-1 tvg-id="Al Jadeed Lebanon ARB" tvg-name="Al Jadeed" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="General",Al Jadeed
-http://watch.teledunet.com:25461/live/tdn/23614613767/10146727.m3u8
+http://188.160.0.148:1935/5c76a1358452981/_definst_/smil:myStream.smil/chunklist_w954350443_b1000000.m3u8?t=5e039b70415df
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Khalij" tvg-logo="Logo N/A" group-title="General",Al Khalij
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Maaref TV" tvg-logo="Logo N/A" group-title="General",Al Maaref TV
@@ -68,9 +98,9 @@ http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Magharibia" tvg-logo="Logo N/A" group-title="General",Al Magharibia
 https://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Maghribia" tvg-logo="Logo N/A" group-title="General",Al Maghribia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Maghribia" tvg-logo="Logo N/A" group-title="General",Al Maghribia
 http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Maghribia" tvg-logo="Logo N/A" group-title="General",Al Maghribia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Mahd" tvg-logo="Logo N/A" group-title="General",Al Mahd
 http://vstream3.hadara.ps:8081/Almahed/Almahed/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Mahrah" tvg-logo="Logo N/A" group-title="General",Al Mahrah
@@ -243,6 +273,10 @@ https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
 http://46.101.104.80:9000/live/whnzvNjgZy/8oDmiTI4Ic/12.m3u8
 #EXTINF:-1 tvg-id="LBC ARB" tvg-name="LBC" tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="General",LBC
 https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="LBC ARB" tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="General",LBC
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_5.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Hadath" tvg-logo="https://i.imgur.com/471tn98.png" group-title="General",Liby Al Hadath
+https://master.starmena-cloud.com/hls/hd.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Libya 218 News" tvg-logo="https://i.imgur.com/0Gq7R07.png" group-title="General",Libya 218 News
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="M24 TV" tvg-logo="Logo N/A" group-title="General",M24 TV
@@ -292,9 +326,7 @@ https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Oman TV Mubashir" tvg-logo="Logo N/A" group-title="General",Oman TV Mubashir
 https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV" tvg-logo="https://i.imgur.com/Cq0IXMb.jpg" group-title="General",OTV
-https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist_406p.m3u8
-#EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV" tvg-logo="https://i.imgur.com/Cq0IXMb.jpg" group-title="General",OTV
-http://144.76.226.29:8080/live/streeem/streeem/160.m3u8
+http://digitalxpress.gcdn.co/live1/otv/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Palestine Mubasher" tvg-logo="Logo N/A" group-title="General",Palestine Mubasher
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Palestine Satellite Channel" tvg-logo="Logo N/A" group-title="General",Palestine Satellite Channel
