@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nruiWxd.png" group-title="Abstract Algebra",Abstract Algebra 4
+https://d38ynedpfya4s8.cloudfront.net/hls/p/320/sp/32000/serveFlavor/entryId/0_nyjkzzyy/v/2/ev/2/flavorId/0_tlnfwwq0/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nruiWxd.png" group-title="Abstract Algebra",Abstract Algebra 4 problems
+https://d38ynedpfya4s8.cloudfront.net/hls/p/320/sp/32000/serveFlavor/entryId/0_hhsydcv1/v/2/ev/4/flavorId/0_h9956zuc/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nruiWxd.png" group-title="Abstract Algebra",Abstract Algebra 5
+https://d38ynedpfya4s8.cloudfront.net/hls/p/320/sp/32000/serveFlavor/entryId/0_dmigjl4p/v/2/ev/3/flavorId/0_83y0s3wu/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nruiWxd.png" group-title="Abstract Algebra",Abstract Algebra 7
+https://d38ynedpfya4s8.cloudfront.net/hls/p/320/sp/32000/serveFlavor/entryId/0_1sfbimfg/v/2/ev/2/flavorId/0_sl1vo7qy/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nruiWxd.png" group-title="Abstract Algebra",Abstract Algebra 7 Complementary
+https://d38ynedpfya4s8.cloudfront.net/hls/p/320/sp/32000/serveFlavor/entryId/0_32xt427d/v/2/ev/2/flavorId/0_4oftbv79/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nruiWxd.png" group-title="Abstract Algebra",Abstract Algebra 7 problems
+https://dchsou11xk84p.cloudfront.net/p/320/sp/32000/playManifest/entryId/0_hhsydcv1/flavorIds/0_4t20a570,0_sunvqvad,0_h9956zuc/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9wbGF5Lm15bW9vZGxlLmxudS5zZQ==&ks=djJ8MzIwfPA_tMlWuqgcEMpdWb8_-0_RwIHFJFfx7LKlYNum-PnArxJNw6nIWhjdbH-WwyJL1Zy_n-EnKlZPHk01Gp_fnxyQc2cffR1QV6LQDZGReujBx0DLmAtVHYPcYm3BcDMMy1lElMaYeNPATXXnU_3S7ZWwWPOtcYw4H68JxX5i4n8xJ67SncO_HCjCuuMyvEKmLnxbYigKlt-r3T9LgzxW81lCkcE1IRCGCHuOfrUea8itRHbFBUpRbhQuMjtOu2eRpufx_edxb0VyUk4ho2Pd0v3R-C5ksg2s_Wy3NFFRccY3wwx34tY0iXc6dnonIEWptGt15W_bkAzaBI5lEkatKYxEnMwISYqYFZwiO-dvx7DS12W8ewwF8GYe-velDPzE5ySgoUfb45AtRthrmlWh8CA5eUoY_p2V5BeEW8S8Wmn9DHtYpqroTzZAWWHh9HkDlQ==&playSessionId=1b602bcd-74ae-6c1c-cfa7-281d97caa7cb&clientTag=html5:v2.80&preferredBitrate=4000&playbackContext=327029&uiConfId=23450182
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nruiWxd.png" group-title="Abstract Algebra",Abstract Algebra 8
+https://d38ynedpfya4s8.cloudfront.net/hls/p/320/sp/32000/serveFlavor/entryId/0_nritgpq3/v/2/ev/2/flavorId/0_wt0kk6td/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nruiWxd.png" group-title="Abstract Algebra",Abstract Algebra 9
+https://d38ynedpfya4s8.cloudfront.net/hls/p/320/sp/32000/serveFlavor/entryId/0_wk7gqvnc/v/2/ev/2/flavorId/0_12qwypd2/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nruiWxd.png" group-title="Abstract Algebra",Abstract Algebra 10
+https://d38ynedpfya4s8.cloudfront.net/hls/p/320/sp/32000/serveFlavor/entryId/0_q8ma0hb8/v/2/ev/2/flavorId/0_ritst8gv/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nruiWxd.png" group-title="Abstract Algebra",Abstract Algebra 10 problems
+https://d38ynedpfya4s8.cloudfront.net/hls/p/320/sp/32000/serveFlavor/entryId/0_3ethbi9i/v/2/ev/3/flavorId/0_k5drlvs6/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nruiWxd.png" group-title="Abstract Algebra",Abstract Algebra 11
+https://d38ynedpfya4s8.cloudfront.net/hls/p/320/sp/32000/serveFlavor/entryId/0_t2vn2j5y/v/2/ev/2/flavorId/0_azlq31er/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nruiWxd.png" group-title="Abstract Algebra",Abstract Algebra 14
+https://d38ynedpfya4s8.cloudfront.net/hls/p/320/sp/32000/serveFlavor/entryId/0_234lqpiq/v/2/ev/2/flavorId/0_fd5a40xu/name/a.mp4/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nruiWxd.png" group-title="Vector Analysis",301-304 for curve integrals
 http://orion.lnu.se/pub/education/course/Matematik/JToft/1MA153/VT2020/2_Kurvintegraler/Kurvintegraler1.m4v
 
