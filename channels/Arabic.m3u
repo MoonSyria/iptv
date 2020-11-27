@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube",البث المباشر لقناة العربية
+https://www.youtube.com/watch?v=jp7wvxSTL4Y
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube",القاهرة والناس
+https://www.youtube.com/watch?v=66xv3E-O_kI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube",Al Jazeera Arabic Live Stream
+https://www.youtube.com/watch?v=taAYP6uAGvs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube",قناة رؤيا
+https://www.youtube.com/watch?v=KEr3F_IQjSc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube", CBC Live Stream
+https://www.youtube.com/watch?v=vIoHKYsF1OM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube",فرانس 24
+https://www.youtube.com/watch?v=s-so2EwztHc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube",TRT
+https://www.youtube.com/watch?v=5qZHWWCRr2I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube",TRT
+https://www.youtube.com/watch?v=5qZHWWCRr2I
+
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN Ya Hala Cinma HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Ya Hala Cinma HD
 http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN AL YAHALA ALOULA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN AL YAHALA ALOULA
