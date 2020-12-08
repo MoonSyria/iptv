@@ -10,7 +10,7 @@ https://akamai2-me.cdn.booyah.live/hls/113138/32744550.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="beIN Sports 1 ARB" tvg-logo="https://i.imgur.com/cqdjHHR.png" group-title="Sport",beIN Sports HD 1
 http://de18.thefitnesshints.com/live/ch01/index.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 2 ARB" tvg-name="beIN Sports 2 ARB" tvg-logo="https://i.imgur.com/p3E3XeQ.png" group-title="Sport",beIN Sports HD 2
-https://cdn3.wowza.com/1/V0l4eHVTWS9IeWgw/dFM5ZVFm/hls/live/playlist.m3u8
+https://live-ak.vimeocdn.com/exp=1607466640~acl=%2F2ffcf816-8bf2-4014-a8a4-add027d016d9%2F%2A~hmac=69b0acb551ff2e90f82ad3480278c9fbf670020ba0980e18e43f18edc395e7b1/2ffcf816-8bf2-4014-a8a4-add027d016d9/hls.m3u8?min_seconds=30
 #EXTINF:-1 tvg-id="beIN Sports 3 ARB" tvg-name="beIN Sports 3 ARB" tvg-logo="https://i.imgur.com/7Eht07u.png" group-title="Sport",beIN Sports HD 3
 http://de15.thefitnesshints.com/live/ch3/index.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 3 ARB" tvg-name="beIN Sports 3 ARB" tvg-logo="https://i.imgur.com/7Eht07u.png" group-title="Sport",beIN Sports HD 3
