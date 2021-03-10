@@ -387,8 +387,10 @@ https://master.starmena-cloud.com/hls/aden.m3u8?v=2957056943
 https://master.starmena-cloud.com/hls/hd.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="iptvtools_515" tvg-logo="Logo N/A" group-title="General",iptvtools_515
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="iptvtools_176" tvg-logo="Logo N/A" group-title="General",iptvtools_176
+#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC 1
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC 1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Hurra Iraq" tvg-logo="Logo N/A" group-title="General",Al Hurra Iraq
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Mayadeen" tvg-logo="Logo N/A" group-title="General",Al Mayadeen
